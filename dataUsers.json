@@ -1,10 +1,3 @@
 [{"id":1,"first_name":"Joyce","last_name":"Diaz","email":"jdiaz0@who.int","ip_address":"177.196.244.159"},
 {"id":2,"first_name":"Marilyn","last_name":"Simmons","email":"msimmons1@ca.gov","ip_address":"144.162.53.129"},
-{"id":3,"first_name":"Lori","last_name":"Meyer","email":"lmeyer2@exblog.jp","ip_address":"200.145.82.66"},
-{"id":4,"first_name":"Judy","last_name":"Dixon","email":"jdixon3@plala.or.jp","ip_address":"206.160.131.35"},
-{"id":5,"first_name":"Jimmy","last_name":"Riley","email":"jriley4@go.com","ip_address":"34.97.177.142"},
-{"id":6,"first_name":"Carol","last_name":"Medina","email":"cmedina5@devhub.com","ip_address":"89.172.104.158"},
-{"id":7,"first_name":"Christine","last_name":"Flores","email":"cflores6@imageshack.us","ip_address":"191.246.221.221"},
-{"id":8,"first_name":"Todd","last_name":"Fowler","email":"tfowler7@irs.gov","ip_address":"46.133.233.169"},
-{"id":9,"first_name":"Paul","last_name":"Howard","email":"phoward8@boston.com","ip_address":"90.68.141.151"},
-{"id":10,"first_name":"Robin","last_name":"Spencer","email":"rspencer9@europa.eu","ip_address":"130.17.24.171"}]
+{"id":3,"first_name":"Lori","last_name":"Meyer","email":"lmeyer2@exblog.jp","ip_address":"200.145.82.66"}]
